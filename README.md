@@ -8,14 +8,18 @@
 [Rotazione 2]()  
 [Rotazione 3]()  
 [Spostamento 2]()  
-[Spostamento 3]()  
-##Esercizio 1B  
+[Spostamento 3]() 
+
+## Esercizio 1B  
 [Dittico ()]  
-##esercizio 2A  
+
+## Esercizio 2A  
 [Forma e Senso]()  
-##Esercizio 2B  
+
+## Esercizio 2B  
 [Animazione]()  
-##Esercizio 3  
+
+## Esercizio 3  
 [Pong]()  
 
 
