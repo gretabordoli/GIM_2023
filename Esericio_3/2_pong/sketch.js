@@ -16,12 +16,12 @@ function setup(){
 
 function draw(){
 	noStroke ()
-    fill (random (500), random (500), random (500))
-	// fill (map ( posX , 0, width, 0, 60), map ( posy, 0, width, 0, 60), 0)
+    //fill (random (500), random (500), random (500))
+	fill(map ( posX, 0, width, 0, 255), map(posY, 0, width, 0, 255), 0)
 
  
 
-ellipse ( posX, posY, 100, 100)
+ellipse ( posX, posY, 200, 200)
 posX = posX + velX
 posY = posY + velY
 
