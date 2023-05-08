@@ -11,7 +11,7 @@
 [Spostamento 3]() 
 
 ## Esercizio 1B  
-[Dittico ()]  
+[Dittico]()  
 
 ## Esercizio 2A  
 [Forma e Senso]()  
