@@ -20,7 +20,7 @@
 [Animazione]()  
 
 ## Esercizio 3  
-[Pong](file:///Users/gretabordoli/Documents/GitHub/GIM_2023/Esericio_3/pong/index.html)  
+[Pong] ()
 [Pioggia]() 
 [Neve]() 
 
