@@ -5,12 +5,12 @@ let velY
 
 function setup(){
 
-	createCanvas(800, 600)
+	createCanvas(windowWidth, windowHeight)
 	posX = width/2
 	posY = height/2
     velX = random (-4, 4)
     velY = random (-4, 4)
-	background (255, 255, 255) 
+	background (0) 
 	
 }
 
