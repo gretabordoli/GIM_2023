@@ -20,7 +20,7 @@
 [Animazione]()  
 
 ## Esercizio 3  
-[Pong] ()
+[Pong]()
 [Pioggia]() 
 [Neve]() 
 
