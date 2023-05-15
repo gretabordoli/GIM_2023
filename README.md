@@ -20,9 +20,9 @@
 [Animazione]()  
 
 ## Esercizio 3  
-[Pong](https://gretabordoli.github.io/GIM_2023/Esericio_3/pong)
-[Pioggia](https://gretabordoli.github.io/GIM_2023/Esericio_3/pioggia) 
-[Neve](https://gretabordoli.github.io/GIM_2023/) 
+[Pong](https://gretabordoli.github.io/GIM_2023/Esercizio_3/pong)
+[Pioggia](https://gretabordoli.github.io/GIM_2023/Esercizio_3/pioggia) 
+[Neve](https://gretabordoli.github.io/GIM_2023/Esercizio_3/neve) 
 
 
 
