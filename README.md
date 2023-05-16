@@ -21,7 +21,7 @@
 
 ## Esercizio 3  
 [Pong] ()
-[Pioggia] (file:///Users/gretabordoli/Documents/GitHub/GIM_2023/Esericio_3/pioggia/index.html)
+[Pioggia] (https://gretabordoli.github.io/GIM_2023/Esericio_3/pioggia/index.html)
 [Neve] ()
 
 
