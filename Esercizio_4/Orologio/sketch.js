@@ -30,7 +30,7 @@ function draw() {
 		}	
 	}
 
-	fill(102, 102, 102, 102);
+	fill(102, 0, 102, 102);
 	textSize(200);
 	textAlign(RIGHT);
 	text(hour(), 220, canvasSize - 50);
