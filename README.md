@@ -20,12 +20,12 @@
 [Animazione]()  
 
 ## Esercizio 3  
-[Pong] (https://gretabordoli.github.io/GIM_2023/Esericio_3/pong/index.html)  
-[Pioggia] (https://gretabordoli.github.io/GIM_2023/Esericio_3/pioggia/index.html)   
-[Neve] (https://gretabordoli.github.io/GIM_2023/Esericio_3/neve/index.html)
+[Pong](https://gretabordoli.github.io/GIM_2023/Esericio_3/pong/index.html)  
+[Pioggia](https://gretabordoli.github.io/GIM_2023/Esericio_3/pioggia/index.html)   
+[Neve](https://gretabordoli.github.io/GIM_2023/Esericio_3/neve/index.html)
 
 ## Esercizio 4    
-[Orologio] (https://gretabordoli.github.io/GIM_2023/Esercizio_4/Orologio/index.html)  
+[Orologio](https://gretabordoli.github.io/GIM_2023/Esercizio_4/Orologio/index.html)  
 
 
 
