@@ -18,7 +18,7 @@
 
 
 ## Esercizio 2B  
-[Animazione]((https://gretabordoli.github.io/GIM_2023/Esercizio_2B/indexA.html))  
+[Animazione](https://gretabordoli.github.io/GIM_2023/Esercizio_2B/indexA.html) 
 
 ## Esercizio 3  
 [Pong](https://gretabordoli.github.io/GIM_2023/Esercizio_3/pong/index.html)  
