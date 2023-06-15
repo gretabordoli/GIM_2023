@@ -11,7 +11,7 @@
 [Spostamento 3](https://gretabordoli.github.io/GIM_2023/Esercizio_1A/spostamento_3.html)   
 
 ## Esercizio 1B    
-[Dittico](https://gretabordoli.github.io/GIM_2023/Esercizio_1B/esercizio 1b.html)  
+[Dittico](https://gretabordoli.github.io/GIM_2023/Esercizio_1B/esercizio_1b.html)  
 
 ## Esercizio 2A   
 [Forma e Senso](https://gretabordoli.github.io/GIM_2023/Esercizio_2A/index.html)
