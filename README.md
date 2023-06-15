@@ -14,11 +14,11 @@
 [Dittico](https://gretabordoli.github.io/GIM_2023/Esercizio_1B/esercizio_1b.html)  
 
 ## Esercizio 2A   
-[Forma e Senso](https://gretabordoli.github.io/GIM_2023/Esercizio_2A/index.html)
+[Forma e Senso](https://gretabordoli.github.io/GIM_2023/Esercizio_2A/template/index.html)
 
 
 ## Esercizio 2B  
-[Animazione]((https://gretabordoli.github.io/GIM_2023/Esercizio_2B/indexA.html))  
+[Animazione](https://gretabordoli.github.io/GIM_2023/Esercizio_2B/template/indexA.html) 
 
 ## Esercizio 3  
 [Pong](https://gretabordoli.github.io/GIM_2023/Esercizio_3/pong/index.html)  
