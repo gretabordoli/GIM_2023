@@ -1,6 +1,6 @@
 # GIM_2023
 
- ## Esericizo 1A   
+## Esericizo 1A   
 [Acceso-Spento 2](https://gretabordoli.github.io/GIM_2023/Esercizio_1A/acceso_spento_2.html)   
 [Acceso-Spento 3](https://gretabordoli.github.io/GIM_2023/Esercizio_1A/acceso_spento_3.html)   
 [Aperto- Chiuso 2](https://gretabordoli.github.io/GIM_2023/Esercizio_1A/aperto_chiuso_2.html)    
@@ -18,7 +18,7 @@
 
 
 ## Esercizio 2B  
-[Animazione](https://gretabordoli.github.io/GIM_2023/Esercizio_2B/indexA.html) 
+[Animazione](https://gretabordoli.github.io/GIM_2023/Esercizio_2B/template/indexA.html) 
 
 ## Esercizio 3  
 [Pong](https://gretabordoli.github.io/GIM_2023/Esercizio_3/pong/index.html)  
