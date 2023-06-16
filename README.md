@@ -27,6 +27,6 @@
 
 ## Esercizio 4    
 [Orologio](https://gretabordoli.github.io/GIM_2023/Esercizio_4/Orologio/index.html)  
-
+L'orologio realizzato è un semplice orologio che conta ora e secondi, i secondi e i ":" sono alternati, all'apparire di uno scomparirà l'altro. Ho usato diversi colori per realizzarlo in maniera più chiara possibile, esso per la sua semplicità e il suo design minimal può diventare un orologio da guardare in ogni momento su qualsiasi dispositivo o all'interno delle abitazioni.
 
 
